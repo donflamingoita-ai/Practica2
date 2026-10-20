@@ -1,0 +1,15 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Pruebas</string>
+
+    <!-- Información Personal y Materia -->
+    <string name="materia">DESARROLLO DE APLICACIONES PARA DISPOSITIVOS MÓVILES</string>
+    <string name="nombre">Daniel</string>
+    <string name="apellido">Leon Santana</string>
+
+    <string name="pantalla_principal">Pantalla Principal</string>
+    <string name="back_btn_desc">Botón regresar</string>
+    <string name="bottom_app_bar">Desarrollo Móvil - 2026</string>
+    <string name="image_description">Ilustración principal de Android</string>
+    <string name="home_fab_text">mensaje del snack bar</string>
+</resources>
